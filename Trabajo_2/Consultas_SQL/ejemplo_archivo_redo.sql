@@ -1,0 +1,9 @@
+INSERT INTO DEPARTMENTS2
+VALUES (
+    500,
+    'PRUEBA REDO',
+    100,
+    1700
+);
+
+COMMIT;
